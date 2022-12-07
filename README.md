@@ -24,7 +24,7 @@ Deployed using vercel in these three domains.
 
 ## Tech Stack
 
-**Client:** HTML, CSS, EJS
+**Client:** HTML, CSS, JavaScript, EJS
 
 **Server:** Node, Express
 
